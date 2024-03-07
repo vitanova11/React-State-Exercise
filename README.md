@@ -34,6 +34,7 @@ The EightBall should take a single property, answers, which should be an array o
   { msg: "Outlook not so good.", color: "red" },
   { msg: "Very doubtful.", color: "red" },
 ]
+
 The EightBall will need state to keep track of the current color and message text, and this state should initially be “black” and “Think of a Question”.
 
 Make it so that the ball chooses a random message when it is clicked on. This should change the background color of the ball and the message.
