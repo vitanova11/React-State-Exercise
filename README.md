@@ -64,11 +64,14 @@ Before building anything, think about the structure of your React app. This enti
 ### Further Study 3
 
 Default Properties
+
 For both parts, there are opportunities to move some things into default properties:
 
-the list of possible colors for boxes
-the number of boxes (so it doesn’t always have to be 16!)
+* the list of possible colors for boxes
+* the number of boxes (so it doesn’t always have to be 16!)
+
 Feedback on Changed Box
+
 For the color boxes app, it can be tricky to tell which box changed when you clicked (particularly when it picks the same random color, so you can’t see any difference!)
 
 Change the application so that, when a box just changed, it shows “changed!” inside of the div. That text should go away after the next click.
