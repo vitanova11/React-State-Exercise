@@ -43,10 +43,10 @@ Make it so that the ball chooses a random message when it is clicked on. This sh
 
 If you have more time, here are some things to try out:
 
-Reset
+Reset:
 Add a button below the ball that will reset the ball back to its initial state.
 
-Record Keeping
+Record Keeping:
 As you ask questions to the ball, display counts of the number of times the eight ball shows up as each of the three different colors.
 
 ### Further Study 2: Color Boxes
