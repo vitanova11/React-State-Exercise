@@ -4,10 +4,10 @@
 
 This application will consist of two components:
 
-App
+App:
 A simple component that just renders an EightBall component.
 
-EightBall
+EightBall:
 The component for the magic eight ball.
 
 The EightBall should take a single property, answers, which should be an array of objects, with each object having a key for msg and color. For example, to use the answers from the classic commercial product, you could use these:
